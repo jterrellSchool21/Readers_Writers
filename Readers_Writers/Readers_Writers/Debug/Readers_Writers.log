@@ -1,0 +1,3 @@
+﻿  Readers_Writers.cpp
+C:\Users\belen\source\repos\Readers_Writers\Readers_Writers\Readers_Writers.cpp(139,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Readers_Writers.vcxproj -> C:\Users\belen\source\repos\Readers_Writers\Debug\Readers_Writers.exe
